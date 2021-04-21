@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Window.Resources>
+	<Style TargetType="ListViewItem">
+		<Style.Resources>
+			<SolidColorBrush x:Key="{x:Static SystemColors.HighlightTextBrushKey}"
+                                 Color="Black"/>
+			<SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}"
+                                 Color="Transparent"/>
+		</Style.Resources>
+	</Style>
+</Window.Resources>
